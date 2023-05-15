@@ -4,7 +4,18 @@
   "level": [
     "Graduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [],
