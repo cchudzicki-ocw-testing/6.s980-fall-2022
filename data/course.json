@@ -18,11 +18,13 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "6s980-machine-learning-for-inverse-graphics"
+    "content": [
+      "3e0626c3-c6b1-44d2-a8ef-c001e0386f5f"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "a6d4a341-64aa-49bb-a3b7-fa284d65e775",
     "website": "6s980-machine-learning-for-inverse-graphics"
   },
   "course_title": "Machine Learning for Inverse Graphics",
@@ -33,7 +35,7 @@
   "extra_course_numbers": "",
   "primary_course_number": "6.S980",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "b6625d94-f460-4b8d-997f-646d5060617c",
     "website": "6s980-machine-learning-for-inverse-graphics"
   },
   "learning_resource_types": [
