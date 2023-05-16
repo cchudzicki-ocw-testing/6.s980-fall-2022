@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/6s980-machine-learning-for-inverse-graphics/6-s980f22-th.png
+file: /courses/6-s980-machine-learning-for-inverse-graphics-fall-2022/6-s980f22-th.png
 file_type: image/png
 image_metadata:
   caption: Any model that interacts with our world has to make predictions about 3D.
